@@ -1,3 +1,3 @@
 # ft_printf
 
-main file = parse_input file.
+Implementation de la fonction printf.
